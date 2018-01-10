@@ -4,7 +4,7 @@
         "application": "Communities Customization",
         "payload": {
           "include-repo":{
-             "name":"customization-repo"
+             "name":"kpa-customization-repo"
           },
           "include-files": [
             "static/communities/communitiesCustomization.js",
