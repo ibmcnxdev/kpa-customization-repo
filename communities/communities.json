@@ -1,0 +1,25 @@
+{
+    "extensions": [
+      {
+        "application": "Communities Customization",
+        "payload": {
+          "include-repo":{
+             "name":"kpa-customization-repo"
+          },
+          "include-files": [
+            "static/communities/communitiesCustomization.js",
+            "static/communities/communitiesCustomization.css"
+          ]
+        },
+        "name": "Communities Customization Extension",
+        "type": "com.ibm.customizer.ui",
+        "path": "communities"
+      }
+    ],
+    "name": "Communities Customization",
+    "description": "Communities Customization",
+    "services": [
+      "Customizer"
+    ],
+    "title": "Communities Customization"
+  }
