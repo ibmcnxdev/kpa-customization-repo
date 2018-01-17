@@ -5,7 +5,7 @@
 //
 if(typeof(dojo) != "undefined") {
     dojo.place(
-        "<link rel=\"stylesheet\" type=\"text/css\" href=\"/files/customizer/communities/communitiesCustomization.css\"></link>",
+        "<link rel=\"stylesheet\" type=\"text/css\" href=\"/files/customizer/communities/communitiesCustomization.css?repoName=kpa-customization-repo\"></link>",
         dojo.doc.head,
         "last"
     );

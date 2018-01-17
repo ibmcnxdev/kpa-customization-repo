@@ -7,8 +7,8 @@
              "name":"kpa-customization-repo"
           },
           "include-files": [
-            "static/communities/communitiesCustomization.js",
-            "static/communities/communitiesCustomization.css"
+            "communities/communitiesCustomization.js",
+            "communities/communitiesCustomization.css"
           ]
         },
         "name": "Communities Customization Extension",
