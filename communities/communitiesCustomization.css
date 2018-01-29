@@ -12,7 +12,7 @@ body {
 	font-family: Tahoma !important;
 }
 
-body:before {
+body.lotusui:before {
     background-image: url(https://app.kpaunicon.com/content/background-banner.jpg);
 	background-size: 100% 105px;
 	display: inline-block;
@@ -39,4 +39,25 @@ body:before {
 
 .lotusMain span.lotusBtn a {
     box-shadow: 0 0 0 1px #ed1b23 inset !important;
+}
+
+.lotusui30 .lotusStream #activityStreamMain.lotusWidgetBody .streamHeaderWrapper .lotusPaging {
+	background: #ed1b23 !important;
+}
+
+.lotusStream #activityStreamMain.lotusWidgetBody .stream-finLeft, .lotusStream #activityStreamMain.lotusWidgetBody .stream-finRight {
+	background: #ed1b23 !important;
+}
+
+.lotusStream #activityStreamMain.lotusWidgetBody .streamHeaderWrapper.isSticky .streamHeaderInner {
+	background: #ed1b23 !important;
+}
+
+.streamHeaderWrapper a {
+    color: white !important;
+}
+
+.streamHeaderWrapper .otherActivityStream14-asKnockedfin14 {
+	width: 10px !important;
+	background-position: 0 -50px !important;
 }
