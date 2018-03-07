@@ -61,3 +61,7 @@ body.lotusui:before {
 	width: 10px !important;
 	background-position: 0 -50px !important;
 }
+
+.streamHeaderWrapper .lotusActions a {
+    color: black !important;
+}
