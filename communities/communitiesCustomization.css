@@ -1,19 +1,20 @@
 .ics-scbanner.isfixed {
-	background-color: #ed1b23 !important;
+	background-color: #EF635A !important;
 	color: white !important;
 }
 
 a {
-	color: #828282 !important;
-	font-family: Tahoma !important;
+    color: #828282 !important;
+    font-family: Century Gothic,CenturyGothic !important;
+    font-weight: bold !important;
 }
 
 body {
-	font-family: Tahoma !important;
+    font-family: Century Gothic,CenturyGothic !important;
 }
 
 body.lotusui:before {
-    background-image: url(https://app.kpaunicon.com/content/background-banner.jpg);
+    background-image: url(https://app.kpaunicon.com/content/city_bubbles_banner.png);
 	background-size: 100% 105px;
 	display: inline-block;
 	width: 100%; 
@@ -26,31 +27,31 @@ body.lotusui:before {
 }
 
 .lotusTabs li.lotusSelected {
-	border-bottom: 4px solid #ed1b23 !important;
+	border-bottom: 4px solid #EF635A !important;
 }
 
 .lotusMenu li.lotusSelected {
-	border-left: 4px solid #ed1b23 !important;
+	border-left: 4px solid #EF635A !important;
 }
 
 .lotusTabContainer {
-	border-bottom: 1px solid #ed1b23 !important;
+	border-bottom: 1px solid #EF635A !important;
 }
 
 .lotusMain span.lotusBtn a {
-    box-shadow: 0 0 0 1px #ed1b23 inset !important;
+    box-shadow: 0 0 0 1px #EF635A inset !important;
 }
 
 .lotusui30 .lotusStream #activityStreamMain.lotusWidgetBody .streamHeaderWrapper .lotusPaging {
-	background: #ed1b23 !important;
+	background: #EF635A !important;
 }
 
 .lotusStream #activityStreamMain.lotusWidgetBody .stream-finLeft, .lotusStream #activityStreamMain.lotusWidgetBody .stream-finRight {
-	background: #ed1b23 !important;
+	background: #EF635A !important;
 }
 
 .lotusStream #activityStreamMain.lotusWidgetBody .streamHeaderWrapper.isSticky .streamHeaderInner {
-	background: #ed1b23 !important;
+	background: #EF635A !important;
 }
 
 .streamHeaderWrapper a {
